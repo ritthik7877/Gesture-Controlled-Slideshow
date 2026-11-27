@@ -2,6 +2,8 @@
 
 A frontend-only slideshow controlled by keyboard or hand gestures. The app uses React, Vite, TypeScript, Tailwind CSS, and MediaPipe Hand Landmarker; webcam video and hand landmarks stay in the browser.
 
+**Live demo:** [gesture-controlled-slideshow.vercel.app](https://gesture-controlled-slideshow.vercel.app/)
+
 ## Setup
 
 ```powershell
